@@ -1,2 +1,8 @@
-# zimbra-zimlet-export-eml
-Adds a button in the more menu to export an email to eml.
+# Export an email as eml file
+
+This Zimlet adds a menu item in the More menu to export/download an email to an eml file.
+
+## Screenshots
+
+> ![](screenshots/menu.png)
+
