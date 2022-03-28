@@ -1,6 +1,6 @@
 {
 	"zimbra-zimlet-eml-export": {
-		"menuItem": "Export email as EML"
+		"menuItem": "Download email as EML"
       }
 }
 
